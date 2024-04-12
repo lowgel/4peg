@@ -11,12 +11,12 @@ the default mode is soundless, but if you want sound, add and 's' flag, like thi
 4peg s myvideo.mp4
 ```
 
-you can use individual filenames and entire directories as argugments, like this:
+you can use individual filenames and entire directories as arguments, like this:
 
 ```
 4peg myvideo.mp4 ./videos/catvids myvideo2.mp4 myvideo3.mp4
 ```
-WebMs will share the same name as their inputs (i.e. myvideo.mp4 -> myvideo.webm) and will output to the same directory as the input.
+WebMs will share the same name as their inputs (i.e. myvideo.mp4 becomes myvideo.webm) and will output to the same directory as the input.
 
 
 
