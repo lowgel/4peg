@@ -5,7 +5,7 @@ requires ffmpeg
 
 to use, place 4peg in usr/local/bin and deploy it from the command line
 
-the default mode is soundless, but if you want sound, add and 's' flag, like this:
+the default mode is soundless, but if you want sound, add an 's' flag, like this:
 
 ```
 4peg s myvideo.mp4
